@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "stealteam.aternos.me",
-    "port": 3251,
+    "port": 32515,
     "version": "1.21.1",
     "try-creative": true
   },
